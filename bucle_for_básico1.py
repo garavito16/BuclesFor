@@ -1,6 +1,3 @@
-from audioop import mul
-
-
 print("numero enteros entre 0 y 150")
 for i in range(0,151):
     print(i)
